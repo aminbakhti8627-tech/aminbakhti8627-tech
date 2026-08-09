@@ -1,4 +1,4 @@
-# Hi there, I'm [Amin Bakhti] 👋
+# Hi there, I'm Amin Bakhti 👋
 
 ### 👨‍💻 Front-End Web Developer & CS Student
 
@@ -24,4 +24,4 @@ When I'm away from the keyboard, I'm intensely focused on my physical fitness, t
 
 ### 📫 Let's Connect!
 
-* **Email:** [Aminbakhti8627@gmail.com]
+* **Email:** Aminbakhti8627@gmail.com
